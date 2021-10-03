@@ -23,7 +23,6 @@ export default function Header(props) {
           <div>Lehdet</div>
         </nav>
         <nav className={styles.buttonContainer}>
-          <div> Tilla</div>
           <div>
             {" "}
             Kirjaudu <i className="fa fa-user-circle-o" aria-hidden="true"></i>
